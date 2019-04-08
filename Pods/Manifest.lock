@@ -1,0 +1,22 @@
+PODS:
+  - CPFLogin (0.1.0):
+    - CPFNetWorking
+  - CPFNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - CPFLogin (from `Lib/CPFLogin`)
+  - CPFNetWorking (from `Lib/CPFNetWorking`)
+
+EXTERNAL SOURCES:
+  CPFLogin:
+    :path: Lib/CPFLogin
+  CPFNetWorking:
+    :path: Lib/CPFNetWorking
+
+SPEC CHECKSUMS:
+  CPFLogin: 3bc7df83a9e7ca0bdf438a07488b51db5c377601
+  CPFNetWorking: 5e8297eb6902832643cad09c58bb637ddf1dabf1
+
+PODFILE CHECKSUM: 20c324a2e32c8e6a9e31a5e7a5687ab3a80e96d1
+
+COCOAPODS: 1.5.2

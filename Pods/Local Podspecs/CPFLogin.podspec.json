@@ -1,0 +1,27 @@
+{
+  "name": "CPFLogin",
+  "version": "0.1.0",
+  "summary": "A short description of CPFLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caopengfeiIOS/CPFLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caopengfeiIOS": "260075088@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/caopengfeiIOS/CPFLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CPFLogin/Classes/**/*",
+  "dependencies": {
+    "CPFNetWorking": [
+
+    ]
+  }
+}
